@@ -1,0 +1,21 @@
+---
+layout: single
+title:  "O importante é começar"
+date:   2022-06-25 13:17:21 -0300
+# categories: jekyll update
+---
+Comecei a me aventurar na computação em 2010. Desde esse período, fazer um blog sempre esteve na minha lista de projetos para "qualquer dia desses" ou "próximas férias". A ideia nunca foi pra frente, mas isso não me impediu de escrever. Tenho vários textos espalhados por blocos de notas, cadernos, arquivos de texto, [Evernote](https://evernote.com), [Notion](notion.so/) - Textos guardados e prontos para abastecerem meu blog no momento que eu botasse ele no ar... e assim se passaram 12 anos.
+
+A questão é que sempre que eu pensava em criar um blog, eu pensava em uma coisa grandiosa. Mal de programador, eu diria, que acha que toda ideia é uma chance para fazer um novo projeto, aprender várias coisas novas, reinventar algumas rodas, e terminar com um site grandioso capaz de revolucionar o conceito software no mercado. Mas a questão é que nossa criatividade é muito mais rápida que nossa produtividade - e particularmente, por muito tempo eu achei que não valia a pena fazer meu blog até que eu tivesse tempo e disponibilidade para fazer algo da maneira que eu sonhava nessa última década.
+
+Algumas coisas me fizeram mudar de ideia ao longo do caminho. A principal delas é a maturidade, tanto como pessoa como quanto engenheiro. Trabalhar como desenvolvedor significa olhar pra código grande parte da semana, e mesmo que eu tenha a disponibilidade para fazer algo grandioso, talvez eu não tenha paciência. Programação - e no caso desse blog aqui, escrita - podem ser divertidos, mas se prender a requisitos sonhadores e restrições complexas é uma ótima receita para projetos inacabados. Outra coisa que me ajudou a pensar diferente sobre meus projetos foi um artigo - cujo link ou autor me fogem a memória nesse momento - que é melhor ter um projeto simples e no ar, feito em uma tarde, que passar muito tempo na fase de planejamento de algo complexo que nunca vai sair do papel. Simplesmente começar - e ver o produto do trabalho pronto, no ar, mesmo que ainda faltem vários detalhes - é bem mais gratificante que mais um projeto inacabado.
+
+É nesse espírito que eu estou colocando esse blog no ar: Nada dele está pronto, tudo que eu fiz foi instalar o [Jekyll](https://jekyllrb.com/) no meu computador, configurar o Github pages e começar a escrever esse primeiro artigo. Agora que tenho uma casa para guardar meus textos, eu posso pensar em expandí-la e, aos poucos, torná-la tão interessante quanto eu espero que seja um dia.
+
+ Algumas premissas para esse blog:
+
+- **Ele é principalmente pra mim:** Eu sou um grande fã da web e acho que sites pessoais fazem falta as vezes. Redes sociais tornaram a produção de conteúdo muito mais acessível, porém removeram muito da personalidade e individualidade da internet. Esse site vai ser meu playground e meu diário de bordo, onde vou poder expor ideias e falar sobre qualquer coisa no formato que eu achar mais legal. Ou vai ser mais um projeto que eu abandono 5 minutos depois de escrever esse texto. vai saber.
+- **Ele não tem um objetivo definido ainda:** Tive milhares de ideias de como meu site pessoal deveria ser, mas nenhuma delas eu vou conseguir desenvolver em uma tarde. Então vou jogar todo tipo de texto/conteúdo que tiver vontade de fazer aqui, em qualquer língua que eu tiver com vontade de escrever na hora, e quem sabe conforme o tempo passe eu decida adicionar uma estrutura.
+- **Ele não deve ser perfeito:** Se eu tentar fazer algo perfeito, vou acabar muito tempo planejanto e pouco tempo escrevendo (textos ou código). Portanto, a maioria das coisas aqui presentes devem ter pouca edição, clarificação ou correção. Talvez muito desses conteúdos também não façam sentido para quem está lendo, então se você por algum motivo se encontra nesse blog, me desculpe - e não diga que eu não avisei! :)
+
+E é isso. Vou tentar usar esse meu novo canto na internet para organizar meus pensamentos, e talvez compartilhar alguns deles com as pessoas. Também é uma oportunidade boa para finalmente mexer com Jekyll, uma parte do ecossistema Ruby que eu sempre admirei de longe, e tem mais tempo com a minha linguagem de programação preferida. Estou empolgado para esse começo e para tudo que vou poder fazer para deixar esse blog melhor - uma melhoria de cada vez.
