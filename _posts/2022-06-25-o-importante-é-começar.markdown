@@ -2,7 +2,7 @@
 layout: single
 title:  "O importante é começar"
 date:   2022-06-25 13:17:21 -0300
-# categories: jekyll update
+categories: divagações
 ---
 Comecei a me aventurar na computação em 2010. Desde esse período, fazer um blog sempre esteve na minha lista de projetos para "qualquer dia desses" ou "próximas férias". A ideia nunca foi pra frente, mas isso não me impediu de escrever. Tenho vários textos espalhados por blocos de notas, cadernos, arquivos de texto, [Evernote](https://evernote.com), [Notion](notion.so/) - Textos guardados e prontos para abastecerem meu blog no momento que eu botasse ele no ar... e assim se passaram 12 anos.
 
