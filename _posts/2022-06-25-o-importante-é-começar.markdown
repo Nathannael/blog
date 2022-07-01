@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "O importante é começar"
+excerpt: "Post inicial do Blog - com as motivações pra colocar esse projeto no ar depois de anos de procrastinação."
 date:   2022-06-25 13:17:21 -0300
 categories: divagações
 ---
