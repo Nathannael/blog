@@ -1,0 +1,156 @@
+---
+layout: single
+title:  "Podcasts que eu acompanho regularmente"
+excerpt: "Uma lista dos podcasts que eu ouço com mais frequência e alguns dos motivos que me fazem gostar deles."
+date: 2022-07-11 20:17:21 -0300
+categories: indicações
+header:
+  overlay_image: assets/images/harry-cunningham-_1J2AioiNC0-unsplash.jpg
+  overlay_filter: 0.4
+  caption: "Photo by [**Harry Cunningham**](https://unsplash.com/@harrycunningham) on [**Unsplash**](https://unsplash.com/photos/_1J2AioiNC0)"
+---
+
+Podcasts tem sido uma das minhas formas principais de entretenimento por muito tempo. Desde o período do Ensino Médio, o tempo gasto no ônibus junto com o fato de eu sempre andar com um fone de ouvido equipado faziam com que eu sempre tivesse com um podcast tocando (caso eu não estivesse ouvindo música, lógico). Com o advento da pandemia e a eliminação do tal "tempo de comuta" meu consumo diário diminuiu significantemente, mas ainda assim sempre arranjo tempo para ouvir meus shows preferidos. E são justamente esses shows que me motivaram fazer essa página: um lugar para que eu apresente as vozes que eu mais ouço, e os motivos que me fazem voltar pra elas constantemente.
+
+A seguir, montei uma lista dos podcasts que eu mais tenho ouvido ultimamente. Tentei trazer um resumo de cada um, e também outras informações como recorrência e alguns episódios que eu gostaria de compartilhar com quem quer que esteja lendo essa página e se interesse pela ideia deles. Nem todos os podcasts vão ter episódios listados, pois alguns são essencialmente "notícias da semana", e é mais interessante pegar o último, ou são histórias, e exigem audição desde o começo. Também separei a lista entre os podcasts que eu ouço sempre e os que eu ouço só quando o assunto me interessa. Portanto, sem mais delongas, vamos à lista:
+
+# Os imperdíveis
+
+Essa é a lista de podcasts que eu ouço toda semana sem falta: notícias importantes de assuntos que eu sigo ou histórias que eu não quero perder.
+
+## The Vergecast
+[Link](https://pod.link/vergecast){:target="_blank"}
+
+Nilay Patel, o Editor-Chefe do [The Verge](https://www.theverge.com/){:target="_blank"}, diz que o maior assunto do site é "Como a tecnologia nos faz sentir". Num mundo extremamente conectado e onde as pessoas tem tantas experiências com tecnologia diariamente, esse é definitivamente um assunto que me interessa. Coisas como o algoritmo do Instagram ou uma nova atualização de sistema operacional tem impacto direto no nosso dia-a-dia, e decisões de grandes empresas afetam nossa vida das mais variadas formas, mesmo que não seja óbvio.
+
+Ouvindo o Vergecast você entende que essas pessoas realmente **sentem** o impacto da tecnologia na sociedade. De conversas sérias sobre discurso na internet até uma discussão de 2 horas sobre HDMI, o Vergecast traz uma mistura muito boa de "jornalistas cobrindo notícias de tecnologia e do mundo conectado" e "nerds conversando sobre os últimos lançamentos de gadgets mais impressionantes". Ambos os níveis de conversa estão exatamente no tipo de informação que eu quero ter no meu dia-a-dia pra me manter informado sobre a locura que é o mundo da tecnologia atualmente.
+
+**Recorrência:**
+Duas vezes por semana, às quartas-feiras e sextas-feiras.
+
+
+## Correspondentes Premier
+[Link](https://pod.link/1231953977){:target="_blank"}
+
+A melhor forma de acompanhar as notícias da Premier League (primeira divisão de futebol da Inglaterra). Eu até já tentei ouvir alguns podcasts ingleses sobre o assunto, mas não vi ninguém que batesse o nível de profissionalismo e conhecimento da liga dessa galera. O Correspondentes Premier é apresentado por 4 jornalistas brasileiros que moram em Londres e, além de serem sensacionais no trabalho de cobrir a melhor liga do mundo, ainda dão pequenas ideias de como é a visão de brasileiros morando na Inglaterra. Eles trazem entrevistas exclusivas, análises dos times, contam causos que viram no estádio e nas ruas da Inglaterra, e ainda brigam regularmente quando estão defendendo os times do coração (entretenimento garantido). A Natalie e o João também são os repórteres das transmissões da ESPN, então é muito bacana acompanhar o trabalho deles em várias mídias.
+
+**Recorrência:**
+Semanal, normalmente às terças-feiras, enquanto o campeonato inglês estiver acontecendo (geralmente de setembro a maio)
+
+
+## Not Another D&D Podcast
+[Link](https://pod.link/1344003690){:target="_blank"}
+
+O Not Another D&D Podcast (ou NADDPOD para os íntimos) é o motivo para eu jogar D&D. Os 4 hosts vieram do College Humor, e apesar de eu não dar muita bola para o jogo nessa época, resolvi dar uma chance pois achava a galera engraçada. O podcast acabou me pegando e talvez seja o show que eu mais tenha ouvido ao longo desses anos, tamanha minha regularidade ouvindo cada episódio que sai (e também os episódios extra do Patreon - esse podcast é a única coisa que eu apoio lá).
+
+O Naddpod mistura muito bem humor - os 4 integrantes principais são improvisadores incríveis - com as mecânicas e o espírito do jogo. O Murph (que normalmente é o mestre dos jogos) - tem um estilo único de condução e a Emily é a melhor jogadora de D&D que eu já vi por aí. O resultado são histórias muito boas e que transitam muito bem a linha tênue de ser um podcast primariamente humorístico, mas ainda assim contar uma história com momentos de ação, e emocionar quando necessário.
+
+Eles também tem diversos outros quadros além dos episódios de campanha, que são ligados ao D&D ou não, mas que juntos formam uma gama gigantesca de histórias que as vzes só quem ouve o podcast entende. Um desses quadros inclusive é pra mim o melhor conteúdo de D&D que eu já vi que não é literalmente pessoas jogando o jogo. O nome do quadro é "Dungeon Court": Eles pegam "casos" enviados por ouvintes, explicando uma situação que aconteceu na sua mesa de RPG e pedem pros apresentadores "julgarem" quem está errado na situação. É muito engraçado, informativo sobre as regras do jogo e encantador, pois você acaba tendo um vislumbre das inúmeras histórias contadas e incontáveis maneiras que D&D pode ser jogado.
+
+**Recorrência:**
+Semanal, normalmente às quintas-feiras. O podcast principal consiste dos apresentadores jogando uma campanha (sempre D&D), mas uma vez por mês tem um episódio variado de um dos quadros rotativos.
+
+**Episódios:**
+
+- "D&D Court - Flammable Brooms, Chokeslamming Dragons, and Grandma the Bard" - [[link]](https://pod.link/1344003690/episode/fbb0a3012e340954fe7308b174fad888){:target="_blank"}
+- "D&D Court: The Player's Judge (w/ Lou Wilson & Zac Oyama)" - [[link]](https://pod.link/1344003690/episode/2342d279bcb80833f5443bb5dde2de24){:target="_blank"}
+
+
+## WTF1 Podcast
+[Link](https://pod.link/1361259666){:target="_blank"}
+
+O [WTF1](https://wtf1.com/){:target="_blank"} é um blog de fórmula 1 que deu muito certo. A ideia é ser uma publicação de fãs para fãs do esporte, e a essa altura eles produzem artigos, vídeos de YouTube e lives na Twitch. Apesar do profissionalismo e do nível de audiência que eles alcançam, eles continuam tendo esse espírito "fã para fã", e isso torna o conteúdo deles muito leve e divertido. Falando exclusivamente do podcast, eles tem uma regularidade absurda de lançar episódios depois de todo evento da categoria, ou mesmo em momentos aleatórios quando uma notícia interessante aparece na internet. Adicionalmente, eles tem alguns quadros fixos como o "Hot Takes", lendo afirmações dos ouvintes, e "That Time when", que relembra corridas marcantes do passado.
+
+
+O canal de YouTube deles também é muito bom e contém entrevistas com pilotos, curiosidades e explicações sobre os fundamentos básicos da fórmula 1.
+
+**Recorrência:**
+Sempre que tem notícias relevantes de Fórmula 1. Nos finais de semana de corrida tem um podcast para cada evento (treinos, classificação, corrida).
+
+-------------
+
+# Os esporádicos
+
+Como há uma quantidade finita de horas num dia e eu não tenho mais tanto tempo para ouvir novos episódios, alguns títulos ficaram para trás. Não que eu goste menos dos podcasts que vem a seguir, mas todos eles tem em comum o fato de trazerem um assunto separado por episódio. Dessa forma, eu geralmente deixo pra ouvir os que realmente me interessam.
+
+## Decoder with Nilay Patel
+[Link](https://pod.link/decoder){:target="_blank"}
+
+O Decoder é um podcast "irmão" do Vergecast, porém com uma vibe bem diferente. O apresentador é o mesmo, mas se o Vergecast é um podcast de notícias de tecnologia e nerds empolgados com gadgets, o Decoder é um podcast sobre organogramas. Ou pelo menos é essa a definição que o Nilay mais usa.
+
+Na verdade, o Decoder é um podcast mais focado em entrevistas com convidados - esses convidados podem ser outros jornalistas explicando sobre algum de seus últimos trabalhos, ou CEOs explicando os caminhos e decisões das suas empresas. Geralmente os assuntos são mais focados em questões empresariais e de mercado, e sempre elucidam alguma coisa sobre uma indústria: Tecnologia, jogos, entretenimentos, automobilística, ou alguma interseção desses campos.
+
+**Recorrência:**
+Semanal, às terças-feiras.
+
+**Episódios:**
+
+- "Is streaming just becoming cable again? Julia Alexander thinks so" - [[link]](https://pod.link/decoder/episode/e60fcf0b8846c90899e6b8053995f137){:target="_blank"}
+- "It's brutal out here: Olivia Rodrigo and how the music business makes songwriters fight over credits" - [[link]](https://pod.link/decoder/episode/9a3cf2fe98064506d4526a19ef45237c){:target="_blank"}
+
+
+
+## Limited Resources
+[Link](https://pod.link/385051731){:target="_blank"}
+
+Um dos meus _hobbies_ é jogar Magic The Gathering, e esse podcast é o que eu mais gosto de ouvir relacionado a esse assunto. Apresentado por um dos maiores narradores do jogo e um membro do Hall of Fame, Limited Resources é focado principalmente em formatos de jogo onde você precisa não apenas jogar com um deck de cartas, mas também construí-lo da melhor maneira de acordo com - como o nome já diz - recursos limitados. Esses formatos, cujo principal é o [draft](https://magic.wizards.com/pt-BR/formats/booster-draft){:target="_blank"} - demandam habilidades bem diferentes de um jogo normal, e capacidade de decisão para montar um deck em pouco tempo. Ouvir os apresentadores falarem sobre cartas, estratégias, e até mesmo compartamento e mentalidade, ajudam bastante a construir uma fundação que me auxilia a ser um melhor jogador de Magic e um melhor competidor. E mesmo que meu objetivo não seja "jogar Magic competitivamente", espírito competitivo e análise de riscos são atributos podem auxiliar em outras partes da vida.
+
+**Recorrência:**
+Semanal, normalmente às sextas-feiras.
+
+**Episódios:**
+
+- "Aggro, Midrange, Control For Current Limited" - [[link]](https://pod.link/385051731/episode/63836fcc73ffa59ce3642c2e91ac768d){:target="_blank"}
+- "11 Traits of Successful Magic Players" - [[link]](https://pod.link/385051731/episode/0b04212f1d2c653940fceb79725b0677){:target="_blank"}
+
+
+## If I Were You
+[Link](https://pod.link/646497413){:target="_blank"}
+
+Esse é primariamente um podcast de comédia - 2 comediantes (que também saíram do College Humor, e um deles faz parte do NADDPOD) recebem emails com perguntas dos ouvintes e tentam dar conselhos em como resolver essas situações. O tipo de humor deles é bem peculiar e meio bobo as vezes, mas os conselhos são _quase_ sempre genuínos. Também é legal ver eles amadurecendo como pessoas ao longo dos anos que eles vem fazendo o podcast - lembro de ouvir esses caras antes mesmo de entrar na faculdade e o nivel de conversas com certeza evoluiu bastante, tanto que retornei a ouvir depois de algum tempo.
+
+**Recorrência:**
+Semanal, normalmente às segundas-feiras.
+
+
+## Developer Tea
+[Link](https://pod.link/955596067){:target="_blank"}
+
+Esse é um podcast que costuma ser muito breve, geralmente entre 5 e 10 minutos, e ataca a vida de desenvolvimento de software de uma forma um pouco diferente dos outros conteúdos que eu vejo por aí. A ideia não é ser extremamente técnico, mas sim analisar e compartilhar comportamentos, ideias e filosofias que podem ajudar desenvolvedores a desempenharem melhor seu papel, e líderes a fomentarem melhor a cultura de seu time. O show normalmente tem ideias claras e conselhos simples de seguir, e o apresentador guia os tópicos - produtividade, síndrome do impostor, colaboração, feedbacks - de uma forma muito calma e tranquila que constrasta com outros conteúdos da área que tendem a ser bombásticos (e querem te mostrar mais um framework Javascript).
+
+**Recorrência:**
+Duas vezes por semana, normalmente às segundas-feiras e quartas-feiras.
+
+  **Episódios:**
+
+- "Better Meetings - What Kind of Meeting, what kind of Goal?" - [[link]](https://pod.link/955596067/episode/c6da8cdfe896969a0ad01cd720876c56){:target="_blank"}
+- "4 Ways to be a Better PR Reviewer" - [[link]](https://pod.link/955596067/episode/66038c7db6d679ceb6e29453d3f030b6){:target="_blank"}
+
+
+## Switched on Pop
+[Link](https://pod.link/switchedonpop){:target="_blank"}
+
+O Switched on Pop é comandado por um compositor e um musicologista, e a ideia do podcast é falar sobre música pop. Não especificamente sobre os últimos hits, paradas de sucesso ou notícias sobre artistas, mas sobre a ciência por trás dos genêros musicais que são mais populares ao longo do tempo e o impacto dessas músicas na cultura moderna, bem como os movimentos que eles influenciaram (ou vão influenciar) na sociedade. Eles costumam ser bem variados nos assuntos, trazendo tópicos que analizam sucessos contemporâneos e passados, sempre com um ar informativo sobre como a música funciona - seja a indústria musical ou a teoria por trás das notas.
+
+**Recorrência:**
+Semanalmente, normalmente às terças-feiras.
+
+  **Episódios:**
+
+- "How Streaming Changed the Sound of Pop" - [[link]](https://pod.link/switchedonpop/episode/9389df022b8131e1dc2eeaa9ae2904a5){:target="_blank"}
+- "'Happy Birthday' is the Worst (with Anne-Marie)" - [[link]](https://pod.link/switchedonpop/episode/290bdbcd0f3adf93973b870fb7247ef3){:target="_blank"}
+
+
+
+## Song Exploder
+[Link](https://pod.link/songexploder){:target="_blank"}
+
+Ainda no tópico de podcasts musicais, o Song Exploder é um podcast que toca numa série de assuntos que me interessam muito: composição, produção, e a inspiração que faz uma canção ser criada. A cada episódio, um artista conta a história de como uma das suas músicas foi criada: o que eles estavam sentindo, qual o momento de vida que inspirou aquelas letras, e de onde saíram alguns dos sons e samples do produto final. Uma simples música tem tantas camadas, tantos intrumentos e tantos sons compostos, que as vezes é difícil apreciar cada elemento separadamente. "Explodir" uma música e analisá-la peça por peça, instrumento a instrumento, geralmente revela histórias muito bonitas e feitos técnicos que me fazem apreciar cada vez mais o trabalho de cada um dos artistas. Esse podcast também virou uma série da Netflix ([Link](https://www.netflix.com/title/80992997){:target="_blank"}).
+
+**Recorrência:**
+Quinzenalmente, às quartas-feiras.
+
+**Episódios:**
+
+- "Rick Astley - Never Gonna Give You Up" - [[link]](https://pod.link/songexploder/episode/8ce87d08f9bd2766283890f2622693a8){:target="_blank"}
+- "Billie Eilish - Everything I Wanted" - [[link]](https://pod.link/songexploder/episode/6507a3c186282d4980f4bbf2822cf572){:target="_blank"}
