@@ -7,5 +7,7 @@ main:
 #     url: /tags/
   - title: "Links"
     url: /links/
+  - title: "bookmarks"
+    url: /bookmarks/
   - title: "Sobre"
     url: /sobre-mim/
