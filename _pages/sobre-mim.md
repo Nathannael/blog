@@ -2,6 +2,7 @@
 permalink: /sobre-mim/
 title: "Sobre Mim"
 layout: single
+author_profile: true
 header:
   overlay_image: assets/images/headers/drmakete-lab-hsg538WrP0Y-unsplash.jpg
   overlay_filter: 0.2
