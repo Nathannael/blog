@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nathann.dev
-email: nathannael2009@gmail.com
+email: nathann@duck.com
 description: >- # this means to ignore newlines until "baseurl:"
 
 domain: nathannael.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
@@ -63,7 +63,7 @@ author:
   avatar           : "/assets/images/avatar.jpg"
   bio              : "Desenvolvedor Ruby on Rails."
   location         : "Fortaleza, CE, Brasil"
-  email            : "nathannael2009@gmail.com"
+  email            : "nathann@duck.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -73,7 +73,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/nathannmorais"
+      # url: "https://twitter.com/nathannmorais"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"

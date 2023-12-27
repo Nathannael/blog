@@ -2,6 +2,7 @@
 permalink: /bookmarks/
 title: "Bookmarks"
 layout: single
+author_profile: true
 header:
   overlay_image: assets/images/headers/shunya-koide-1emWndlDHs0-unsplash.jpg
   overlay_filter: 0.5
