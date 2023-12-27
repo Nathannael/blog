@@ -5,7 +5,7 @@ excerpt: "Uma lista dos podcasts que eu ouço com mais frequência e alguns dos 
 date: 2022-07-11 20:17:21 -0300
 categories: indicações
 header:
-  overlay_image: assets/images/harry-cunningham-_1J2AioiNC0-unsplash.jpg
+  overlay_image: assets/images/headers/harry-cunningham-_1J2AioiNC0-unsplash.jpg
   overlay_filter: 0.4
   caption: "Photo by [**Harry Cunningham**](https://unsplash.com/@harrycunningham) on [**Unsplash**](https://unsplash.com/photos/_1J2AioiNC0)"
 ---

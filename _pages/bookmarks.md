@@ -3,7 +3,7 @@ permalink: /bookmarks/
 title: "Bookmarks"
 layout: single
 header:
-  overlay_image: assets/images/shunya-koide-1emWndlDHs0-unsplash.jpg
+  overlay_image: assets/images/headers/shunya-koide-1emWndlDHs0-unsplash.jpg
   overlay_filter: 0.5
   caption: "Photo by [**Shunya Koide**](https://unsplash.com/@shunyakoide) on [**Unsplash**](https://unsplash.com/photos/1emWndlDHs0)"
 ---

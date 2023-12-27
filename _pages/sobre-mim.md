@@ -3,7 +3,7 @@ permalink: /sobre-mim/
 title: "Sobre Mim"
 layout: single
 header:
-  overlay_image: assets/images/drmakete-lab-hsg538WrP0Y-unsplash.jpg
+  overlay_image: assets/images/headers/drmakete-lab-hsg538WrP0Y-unsplash.jpg
   overlay_filter: 0.2
   caption: "Photo by [**drmakete lab**](https://unsplash.com/@drmakete) on [**Unsplash**](https://unsplash.com/photos/hsg538WrP0Y)"
 
