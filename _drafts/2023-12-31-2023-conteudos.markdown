@@ -1,0 +1,156 @@
+---
+layout: single
+title:  "Retrospectiva 2023 - Conteúdos"
+excerpt: "Álbuns, séries, filmes e outras coisas que eu gostei durante o ano"
+date: 2023-12-31 12:17:21 -0300
+categories: retrospectiva
+header:
+  overlay_image: assets/images/spotify/sgcdesignco-NIo8Fd-RngE-unsplash.jpg
+  overlay_filter: 0.6
+  caption: "Photo by [**sgcdesignco**](https://unsplash.com/@sgcreative) on [**Unsplash**](https://unsplash.com/photos/NIo8Fd-RngE)"
+
+top-albums:
+- image_path: https://i.scdn.co/image/ab67616d0000b273007094073d38a8a546674d4c
+  alt: "Sysyphus - Golden Features"
+  title: "Sysyphus"
+  excerpt: "Golden Features"
+- image_path: https://f4.bcbits.com/img/a3458754372_65
+  alt: "Wallsocket - Underscores"
+  title: "Wallsocket"
+  excerpt: "Underscores"
+- image_path: https://i.scdn.co/image/ab67616d0000b2736382f06498259682f91cf981
+  alt: "Quest For Fire - Skrillex"
+  title: "Quest For Fire"
+  excerpt: "Skrillex"
+
+
+---
+
+Ontem eu [escrevi]({{ site.baseurl }}{% link _posts/2023-12-30-retrospectiva-2023.markdown %}){:target="_blank"} um pouco sobre como foi meu 2023. Agora vou compartilhar um pouco do que eu ouvi, assisti, li, e no geral consumi nesse ano.
+
+## Música
+
+Logo de cara, um pouco sobre como ouvi música em 2023, e como acompanhei minhas estatísticas. Continuo usando o Spotify, apesar de todos os problemas, pois a conveniência e a memória muscular ainda não muito grandes. Tenho usado cada vez mais o Apple Music, e de forma mais intencional:
+ - ouvir álbuns, pela qualidade de música, que o Spotify não chega perto
+ - Descobrir música nova, pois me dou muito bem com as playlists, tanto as criadas por pessoas quanto as geradas automaticamente. A presença de DJ Mixes e rádio me faz estar bastante por lá.
+ - Outra coisa que me atrai no Apple Music é que ele exibe exatamente quantas vezes uma música ou um álbum foram tocados, que é relevante pra estatisticas de fim de ano.
+
+Também tento usar o Last.fm pois ele traz informações e agregações que nenhum outro serviço oferece. Mas infelizmente, ele está cada vez menos confiável em relação a salvar scrobbles, e me dá a certeza de que os dados de fim de ano não são exatos. De toda forma, continuo usando os dados que ele me fornece, que são melhores que nada.
+
+### Álbuns
+
+Esse ano uma das minhas resoluções foi ouvir mais álbuns. Não só álbuns de artistas que eu conheço e gosto, mas também álbuns que não estão imediatamente no meu radar. Pra isso, contei muito com a ajuda do [Album of The Year](https://www.albumoftheyear.org/){:target="_blank"}, olhando que trabalhos estavam com uma nota alta e comentários que chamassem minha atenção. A estratégia deu certo, e acabei ouvindo várias coisas que eu gostei muito e não teria nem conhecido sem essa ajudinha da comunidade. A lista completa de álbuns que eu ouvi, junto com notas e alguns comentários, está [aqui](https://musicboard.app/nathann/history).
+
+**94 álbuns ouvidos**{: .notice--success} **82 lançados em 2023**{: .notice--info}
+
+#### Álbuns mais ouvidos
+
+![albuns-mais-ouvidos](/blog/assets/images/retro-2023/top-albums.png){: .align-center}
+
+De acordo com o Last.FM, esses foram meus álbuns mais ouvidos em 2023. [Sysyphus](https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp) disparado em primeiro não me surpreende, esse foi o álbum que eu mais gostei em 2023. Tenho acompanhado a carreira do Golden Features desde que ele começou a lançar música, e o estilo "house industrial" dele me cativa muito. Minha review original dele está [aqui](https://musicboard.app/review/3d1c66f5-cc5c-469b-b6b7-99f84c33608a). [Floorspace](https://open.spotify.com/album/0zJkFKoviOWGLmT5mvWhWC) do Juelz é um dos melhores traps do ano, mas teve a vantagem de sair meses antes do [PLAY](https://open.spotify.com/album/4rvldOPGXisTvIYXwbFNix) do RL Grime e do [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) do ISOxo. Quem não sofreu por ter lançado álbum mais pro fim do ano foi o Chase & Status: [2 RUFF, vol. 1](https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl) é uma MÁQUINA de Drum & Bass, bem como o [Boiler Room](https://www.youtube.com/watch?v=Zy_JR9_Y8dE&) que o Chase tocou há alguns meses atrás.
+
+Na lista tem 2 álbuns do Skrillex: eu acho que comecei a apreciar o trabalho do Skrillex bem depois do resto da cena, por isso ver ele voltar com força total em 2022/2023, com energia renovada, feliz, e trabalhando com vários amigos foi ótimo. 9 anos depois do [Reccess](https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV) e 8 depois do [Jack U](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd), tava na hora do Skrillex voltar, e voltou com tudo. Dentre os dois álbuns que ele lançou, gostei muito mais do [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) que contém as faixas mais pesadas da dupla (se não ouviu o [Basement Set](https://www.youtube.com/watch?v=hb0XLX0b4Y4) do QFF, tá hora!). Eu já não gosto tanto do [Don't Get Too Close](https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0), mais focado em rap, pois não é muito minha vibe e acaba tendo muitas vibes de "emo 2023". Porém só "[Selecta](https://open.spotify.com/track/2nBswif1hr0AS3ialfIRgy)" já vale a pena deixar o DGTC na lista.
+
+No top 8 também tem 2 discos do ODESZA, que todo mundo deve saber a essa altura que são meus artistas favoritos atualmente (e há bastante tempo). [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) é o último álbum de estúdio que eles lançaram, em 2022, mas eu amo muitas músicas desse trabalho então continua firme e forte na minha rotação. Já o [Flaws in Our Design](https://open.spotify.com/album/6qhaIg3gQcKrcQYv8BzCso) foi uma surpresa muito bem-vida de 2023: um EP em parceria com o Yellow House que vê os caras se aventurando por um som mais indie e mais psicodélico, mas sem perder a essencia chillwave/atmosférica que eu gosto tanto. Muito se foi falado do quanto esse EP era uma direção diferente pro ODESZA, mas até hoje [Heavier](https://open.spotify.com/track/4JBRlhgxP6tkb31KCfM88R) me impressiona por capturar tanto do que significava essa banda antes mesmo do lançamento de [A moment Apart (2017)](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ). Espero vê-los mais nesses caminhos no futuro.
+
+Por último na lista do Last.FM temos [JUNGLE](https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo) do The Blaze, outra banda que eu reconheci muito depois do que deveria. Na época que eles despontaram na cena (com o lançamento de [Juvenile](https://open.spotify.com/track/5YzaostcCu9Sgp5T7bFuX3)) eu não suportava o estilo deles. Agora já em 2023, com o gosto apurado e a experiência nas costas, o Jungle era um dos meus álbuns mais aguardados. A música do The Blaze tem uma alma muito particular, e me toca demais sempre que ouço. Jungle foi um prato cheio, mas acompanhado do álbum também tiveram vários clipes que também valem a pena acompanhar. The Blaze é uma experiência audiovisual, como eles mesmos descrevem: "a música é inseparável da imagem". Nesse álbum algumas músicas tem clipes que realmente são tocantes e tem uma cinematografia muito boa. A ver: [MADLY](https://www.youtube.com/watch?v=Z_lgOwrtl2M), [DREAMER](https://www.youtube.com/watch?v=G6K_hkVdQgw). Por sinal, o show ao vivo deles também é muito bom. Recomendo demais o [show](https://www.youtube.com/watch?v=2bOatOu-sfA) que eles fizeram dentro de uma caverna para o ARTE concert.
+
+#### Outros álbuns que gostei
+
+Os 8 acima foram só os que eu ouvi mais, porém teve MUITO mais coisa que me impressionou nesse ano:
+
+Logo abaixo nessa lista aí, em nono lugar, temos [Wallsocket](https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv) da underscores. Esse foi um álbum que eu descobri por acaso, e rapaz, como estou feliz de ter descoberto. Wallsocket é diverso, divertido, as vezes é alto, é contagiante, e tem uns momentos que estão entre os meus favoritos em muito tempo - a intro de [Locals (Girls Like Us)](https://open.spotify.com/track/0MK6lVnmhVulpP62vkZBWV), a visceralidade de [Geez Louise](https://open.spotify.com/track/3v1awewJB3C5QAC8hgggHK), a maneira como [johnny johnny johnny] é um pop cativante e chiclete mas com uma letra extremamente perturbadora. Afinal, a questão da letra é uma coisa que me pegou muito nesse álbum: A Underscores fez uma cidade, uma história, e o álbum segue essa história muito bem (vale a pena ouvir o álbum de olho nas [notas](https://genius.com/albums/Underscores/Wallsocket) do Genius). Wallsocket foi a melhor surpresa e uma experiência extremamente empolgante.
+
+Nesse ano também foi muito bom ouvir a volta do The Chemical Brothers, com o [For the Beautiful Feeling](https://open.spotify.com/album/5cLkbqs0qo552lJvXH1JTH). Os caras continuam afiadíssimos e esse ano eles também tiveram um show fantástico no Coachella. [No Reason](https://open.spotify.com/track/05viyiChBLJMuVup0mtH2A) e [Goodbye](https://open.spotify.com/track/5Eyhw61L8qs4bdc6G4cfW3) estão no meu coração, bem como [All of a Sudden](https://open.spotify.com/track/0RD2AT3sAoSLcMxvcjayrQ?si=255a560eb693442d) que é um CRIME não fazer parte do álbum. Mentira, eu entendo muito bem que ela não combina muito bem com o resto do álbum, e fico feliz que eles decidiram lançar ela como B-Side de No Reason.
+
+2023 também teve ótimos álbuns pop, dos quais eu destaco [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) da Jessie Ware, com uma pegada disco extremamente energética e dançante, e [Desire, I want to Turn into you](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) da Caroline Polachek. O que posso dizer, essa mulher me ganhou tanto vocalmente quanto pelas escolhas de instrumental e de produtores. Obrigado pela indicação Flume e Danny L Harle! Do álbum da Caroline ainda saiu um dos melhores [remix](https://open.spotify.com/track/2nQeWDP8OA9vFqiCfghot2)es do ano pra mim e [Dang](https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8), que é uma B-Side maravilhosa. O outro melhor remix do ano, por sinal, também é de uma música pop: Esse [remix](https://open.spotify.com/track/5Ww9JTu9VNftDjSvjlNzHz) absurdo do jamesjamesjames pra "Speed Drive", que a Charli XCX fez pro filme da Barbie.
+
+Eu poderia ficar mais horas e horas escrevendo sobre outros álbuns que eu gostei (foram muitos mesmo), como o álbum do [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg), ou o [Extra Time](https://open.spotify.com/album/49qaWr7XitNvgKzobKGiGg) do Amtrac, mas várias dessas coisas eu já escrevi no Musicboard, então vou deixar por lá. Mas se eu tivesse que fazer um Top 3 dos álbuns lançados em 2023 seria esse aqui:
+
+{% include feature_row id='top-albums' %}
+### Singles
+
+Não só de álbuns vive a música, Especialmente a música eletrônica, de onde vem a grande maioria da minha biblioteca musical. Olhei no [Organize Your Music](http://organizeyourmusic.playlistmachinery.com/#) e esse ano salvei 1013 musicas no Spotify, me mantendo mais ou menos na média dos anos anteriores. E segundo o Last.FM, meu top10 foi esse aqui:
+
+![singles](/blog/assets/images/retro-2023/top-songs.png){: .align-center}
+
+Muitas dessas músicas eu acabei já cobrindo na parte de álbuns. O trator chamado Quest For Fire colocou 3 musicas no meu top10, e de resto são meus singles preferidos de alguns dos meus álbuns preferidos do ano. Um motivo de orgulho pra mim é que todas essas músicas sairam em 2023 com exceção de [Vigil](https://open.spotify.com/track/24KgQu8B7JCyoIcMeF1xan)(saiu em 2022, como o segundo single do Sysyphus). Os 2 singles que não vieram de álbuns dessa lista são [Back Online](https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH), do MEMBA que sempre tem alguma coisa que marca meu ano; e [TROMPA](https://open.spotify.com/track/1h2igaPPB08Gwe4WZynsei), parceria do Sofi Tukker com Sunnery James & Ryan Marciano que foi tocada algumas vezes ao longo do ano e eu estava esperando bastante.
+
+Pra fechar o assunto singles, todo ano eu faço uma playlist com as 52 músicas que mais me marcaram lançadas no período. A desse ano foi meio difícil pra fechar no número exato de semana no ano, mas estou feliz com o resultado final. Essas playlists sempre são interessantes pra revisitar em anos seguintes, quando talvez eu já tenha esquecido algumas gemas que me impressionaram em anos passados. Segue pra quem quiser dar uma olhada e ouvir:
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5rtyNVB2V6cbPx4r1pUMDZ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+### Artistas
+
+
+![artists](/blog/assets/images/retro-2023/top-artists.png){: .align-center}
+
+Nessa lista de artistas mais ouvidos do ano tem algumas figurinhas carimbadas: ODESZA, Flume, Rezz... Também tem uma galera cujos albúns eu curti muito ao longo do ano, como é o caso do resto: Golden Features, Skrillex, The Chemical Brothers, Barry Can't Swim (que lançou [When Will We Land](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) esse ano). Quando expandido pro top 15, aparecem mais uns artistas que tiveram um ano muito bom, mas que nem precisam de muita coisa pois eu ouço bastante sempre: Fred Again.., Baauer, deadmau5, Sam Gellaitry...
+
+![artists](/blog/assets/images/retro-2023/artists-extended.png){: .align-center}
+
+### Considerações finais
+
+Aconteceram muitas outras coisas legais ao longo do ano, como Coachella, sets muito bons ao vivo ou no YouTube, mas acabei não catalogando. Acabei colocando em outras sessões conforme fui lembrando de algumas coisas, mas ano que vem vou tentar trazer mais categorias ao vivo pra esse momento.
+
+As outras categorias não vão ser tão detalhistas quanto a de música, mas mesmo assim quero dar minhas impressões do ano.
+
+-----------
+
+## Podcasts
+
+2023 parece ter sido um ano de consolidação no mercado de Podcasts. O Spotify começou a reverter muito do investimento que fez em anos anteriores, e isso fez o horizonte mudar um pouco. Por outro lado, os shows continuam aparecendo. Do meu lado, não acho que fiz grandes descobertas: meu aplicativo escolhido continua sendo o Pocket Casts, e meus podcasts preferidos continuam sendo muitos dos que eu [comentei]({{ site.baseurl }}{% link _posts/2022-07-11-podcasts.markdown %}){:target="_blank"} no meu texto de podcasts de 2022, com algumas mudanças, principalmente por que alguns hosts mudaram de lugar e alguns shows acabaram. Meu top 5:
+
+{% include figure image_path="/assets/images/retro-2023/podcasts.jpeg" alt="lista de podcasts mais ouvidos" %}
+
+Minha maior "descoberta" é um show que não é nada novo: [Qwerpline](https://www.youtube.com/playlist?list=PLV_qemO0oatil7iRtM1JrKybU-VGFa5A7) da galera do LoadingReadyRun. O podcast é de humor sobre a cidade fictícia de nsburg: pra quem conhece, lembra um pouco Welcome to Night Vale. É bem engraçado e estou feliz em saber que agora que estou acabando a segunda temporada, vai chegar a terceira em breve.
+
+Me sinto bem com meu consumo atual de podcasts: esses 5 que apareceram na lista do Pocket Casts são os que eu ouço todos os episódios que saem (os 3 primeiros), ou a grande maioria deles (os 2 últimos). De resto, ouço episódios de maneira espaçada e de acordo com meu interesse sobre o assunto abordado. Meu aplicativo tem uns 80 podcasts sendo seguidos (uns 60 ativos, eu diria), mas consigo usar esse feed apenas como opção, sem me sentir sobrecarregado, e tenho um feed separado só para os principais.
+
+-------------
+
+## Filmes
+
+- 26 filmes
+- https://trakt.tv/users/nathann/history/movies/added/asc?start_at=2023-01-01T00:00:00-03:00&end_at=2023-12-31T23:59:59-03:00
+- Filmes antigos
+  - Se7en
+  - Coda
+  - Prestige
+
+- Filmes novos
+  - Barbenheimer
+  - Tetris
+  - D&D
+  - Across the Spiderverse
+  - Marvels
+
+-------------
+
+## Séries
+- https://trakt.tv/users/nathann/history/shows/added/asc?start_at=2023-01-01T00:00:00-03:00&end_at=2023-12-31T23:59:59-03:00
+- Ted Lasso
+- Barry
+
+- Good Omens
+- Vox Machina
+
+- The Other Two
+- Schitt's Creek
+-------------
+
+## Internet
+- Critical Role
+- Numot The Nummy
+- Dropout
+-------------
+
+## Livros
+
+Minha última sessão é a menos impressionante e meio que o "cantinho da vergonha". De acordo com meu goodreads, só li 3 livros esse ano. E me conhecendo, não vou tentar aumentar esse número para 2024, vamos ver no que dá. Mas posso falar um pouco de cada livro - são 3 ficções científicas:
+
+- Mickey7, li esse como preparação pro filme do Bong Joon-ho (que vai se chamar Mickey17). Gostei bastate do livro, é relativamente leve apesar da premissa. Terminei o livro achando que não aconteceu coisa o suficiente: já estou de olho no preço da sequência, Antimatter Blues, pra entender pra onde a história vai.
+- Upgrade, o mais novo livro do Blake Crouch. Tinha adorado os outros livros dele que eu li, Matéria Escura e Recursão, e estava bastante empolgado por Upgrade. Esse tem muito do DNA dos livros anteriores mas pra mim pareceu um pouco raso. Enquanto os outros conseguiram trazer o dilema da tecnologia sob a qual o livro se baseava e conseguia trazer isso a um nível bem pessoal dos personagens e de outros valores, como família e memórias, esse último pareceu um filme da Marvel. Nada contra filmes da Marvel, portanto ainda apreciei o livro apesar da leve decepção.
+- Sea of Tranquility, que peguei como indicação de um bom e recente livro de ficção científica. A pegada desse é um pouco diferente do que estou acostumado mas apreciei a visão da autora. O livro demora um pouco pra engatar, e acaba não dando atenção igual para todos os fios que tenta tecer, mas a história central é bem interessante e tem passagens bem legais.
+
+Pra 2024, minha lista de livros a comprar já é maior que a lista de livros que li nos últimos anos. Mas se conseguir manter essa média de 3 por ano, já vou estar muito feliz.
