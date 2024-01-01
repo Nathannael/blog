@@ -14,17 +14,21 @@ Aqui vou colocar não só blogs, mas também newsletters e outras fontes de cont
 
 --------
 
-### Newsletters
+## Newsletters
+- [Hacker Newsletter](https://hackernewsletter.com/)
+- [Installer](https://www.theverge.com/pages/installer-newsletter-sign-up)
+- [Ruby Weekly](https://rubyweekly.com/)
 
+## Blogs
+### Programação
+- [https://jvns.ca](https://jvns.ca)
+- [https://www.codewithjason.com/articles/](https://www.codewithjason.com/articles/)
 
-### Blogs
-#### Programação
-https://jvns.ca
-https://www.codewithjason.com/articles/
-
-#### Tecnologia
-https://daringfireball.net/
+### Tecnologia
+- [Daring Fireball](https://daringfireball.net/)
 
 
 ### Publicações
-https://www.theverge.com/
+- [The Verge](https://www.theverge.com/)
+- [Aftermath](https://aftermath.site/)
+- [404 Media](https://www.404media.co/)

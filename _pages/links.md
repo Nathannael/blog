@@ -11,6 +11,18 @@ header:
 Um dos meus objetivos nesse site, além de guardar meus próprios textos, é compartilhar conteúdos que eu vi pela internet e achei interessante ou relevante. Muitas vezes eu lembro de um artigo muito legal que li muitos meses atrás mas acabei não guardando o link. Aqui eu reunirei todos esses artigos, inicialmente como uma grande lista mas talvez com o tempo eu decida separar por assunto ou mudar a organização.
 
 --------
+
+## 27 de Dezembro, 2023
+### Uma Ode ao Ruby
+[Link](https://eliseshaffer.com/2023/12/18/i-love-ruby/)
+
+A essa altura do campeonato, todo mundo sabe do meu apreço por Ruby e o quanto eu gosto da linguagem. Tenho trabalhado com isso há mais de 10 anos e ajudo a comunidade a fazer eventos sempre que possível. Esse texto é rápido, mas captura muito do sentimento compartilhado por tantos rubyistas.
+
+### O maior erro que vejo engenheiros fazerem
+[Link](https://thezbook.com/the-biggest-mistake-i-see-engineers-make)
+
+Li esse artigo há muito tempo, mas achei importante o suficiente pra guardar esse tempo todo no Notion, então estou trazendo pra cá.
+
 ## 10 de Dezembro, 2023
 ### Código é mais executado que lido
 [Link](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
