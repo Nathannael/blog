@@ -10,7 +10,7 @@ header:
 
 ---
 
-Tenho 27 anos e sou um desenvolvedor web full stack, focado principalmente no framework Ruby on Rails. Sou um entusiasta de tecnologia, e todas as coisas que podemos fazer com computadores. Quando eu não estou programando ou estudando algo sobre desenvolvimento de software, provavelmente estou lendo algo sobre gadgets, escutando música eletrônica, ou jogando D&D.
+Tenho 28 anos e sou um desenvolvedor web full stack, focado principalmente no framework Ruby on Rails. Sou um entusiasta de tecnologia, e todas as coisas que podemos fazer com computadores. Quando eu não estou programando ou estudando algo sobre desenvolvimento de software, provavelmente estou lendo algo sobre gadgets, escutando música eletrônica, ou jogando D&D.
 
 Todos os conteúdos desse blog são opiniões pessoais minhas e não devem ser interpretadas como posições de nenhuma entidade a qual meu nome é relacionado.
 

@@ -12,6 +12,13 @@ Um dos meus objetivos nesse site, além de guardar meus próprios textos, é com
 
 --------
 
+## 21 de Janeiro, 2024
+
+## HTMX é apenas outro framework Javascript?
+[link](https://htmx.org/essays/is-htmx-another-javascript-framework/)
+
+Post no site do HTMX explicando as vantagens de se usar HTMX no lugar de outros frameworks. A ideia do HTMX me atrai bastante e os argumentos desse post fazem muito sentido.
+
 ## 27 de Dezembro, 2023
 ### Uma Ode ao Ruby
 [Link](https://eliseshaffer.com/2023/12/18/i-love-ruby/)

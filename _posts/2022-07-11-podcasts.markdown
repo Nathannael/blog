@@ -3,7 +3,7 @@ layout: single
 title:  "Podcasts que eu acompanho regularmente"
 excerpt: "Uma lista dos podcasts que eu ouço com mais frequência e alguns dos motivos que me fazem gostar deles."
 date: 2022-07-11 20:17:21 -0300
-categories: indicações
+categories: listas
 header:
   overlay_image: assets/images/headers/harry-cunningham-_1J2AioiNC0-unsplash.jpg
   overlay_filter: 0.4

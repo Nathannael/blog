@@ -32,3 +32,4 @@ Aqui vou colocar não só blogs, mas também newsletters e outras fontes de cont
 - [The Verge](https://www.theverge.com/)
 - [Aftermath](https://aftermath.site/)
 - [404 Media](https://www.404media.co/)
+- [Hearing Things](https://www.hearingthings.co/)
