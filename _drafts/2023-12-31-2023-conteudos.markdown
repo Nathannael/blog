@@ -111,38 +111,49 @@ Me sinto bem com meu consumo atual de podcasts: esses 5 que apareceram na lista 
 
 ## Filmes
 
-- 26 filmes
-- https://trakt.tv/users/nathann/history/movies/added/asc?start_at=2023-01-01T00:00:00-03:00&end_at=2023-12-31T23:59:59-03:00
-- Filmes antigos
-  - Se7en
-  - Coda
-  - Prestige
+Em 2023 assisti 26 filmes diferentes, o que é um aumento comparado aos 20 de 2022. Muito disso se deve ao fato do interesse crescente do meu irmão por cinema, que acaba me arrastando junto. Foi por influência e sugestão dele que acabei assistindo 2 filmes antigos que eu gostei muito: [Se7ven](https://trakt.tv/movies/se7en-1995) e [The Prestige](https://trakt.tv/movies/the-prestige-2006). Outro filme, não tão antigo, mas que eu estava devendo a mim mesmo e valeu muito a pena assistir foi [CODA](https://trakt.tv/movies/coda-2021).
+Em 2022 eu já tinha ido muito ao cinema, mas esse ano acho que voltei a uma quantidade normal. Gosto de assistir filmes na tela grande, não só pela experiência de som e imagem, mas também porque o ambiente me é propício a prestar atenção no filme e me desligar mais do que se estivesse assitindo em casa. Meu filme preferido do ano é óbvio pra quem me conhece: [Dungeons and Dragons: Honor among Thieves](https://trakt.tv/movies/dungeons-dragons-honor-among-thieves-2023).
 
-- Filmes novos
-  - Barbenheimer
-  - Tetris
-  - D&D
-  - Across the Spiderverse
-  - Marvels
+{% include video id="9LLOLEBlVIA" provider="youtube" %}
+
+Não consigo explicar o quão feliz eu estou até agora de que esse filme não é ruim. É exatamente o que um filme de D&D deveria ser pra capturar a essência do jogo - divertido, interessante, não se leva a sério e tem um humor leve. A história não teve muita profundidade mas também não precisa ter: jogamos D&D pra criar histórias colaborativas e essas histórias não precisam ganhar o oscar de melhor roteiro toda vez. O espírito de aventura e fantasia foi muito bem capturado. Tiveram inúmeras referências a feitiços, habilidades, items e tantas outras coisas do jogo, mas ainda assim foi um filme capaz de entreter pessoas que nunca rolaram um teste de habilidade na vida. Até os estereótipos comuns do jogo não foram exagerados. Ver um paladino usar Divine Sense e Divine Smite na mesma cena me derrubou no cinema e espero MUITO que esse filme tenha sido sucesso o suficiente pra ganhar uma continuação.
+
+Eu esperei muito pelo lançamento do filme de D&D, mas não tanto quanto esperei Spider-Man: Across the Spider-Verse. E essa foi outra espera que não desapontou - Um filme incrível e LINDO de se ver na tela grande. O trabalho de animação é muito bom e dá vontade de parar a cada frame pra admirar, especialmente com o tratamento especial que cada universo ganhou na animação e nas cores. Aparentemente foi um pesadelo para fazer tudo isso sair do papel, mas o resultado final valeu a pena.
+
+Também não dá pra falar de cinema em 2023 pra citar o fenômeno que foi "Barbenheimer". 2 dos melhores e mais aguardados filmes do ano saindo no mesmo fim de semana. Ambos os filmes tiveram seus problemas mas no geral gostei muito dos dois, e o impacto cultural de Barbie foi uma coisa muito bacana de ver se desenrolar, ainda mais com a mensagem do filme. Falando em impacto cultural, além do mar de pessoas vestidas de rosa no shopping pra ver Barbie, também teve o mar de pessoas chiquérrimas pra ver Renaissance, e o mar de pulseirinhas pra ver Eras Tour. Deve ter sido um ano muito bem-vindo pra donos de cinema.
+
+Outros filmes desse ano que vale a pena comentar:
+- The Marvels: Outro filme muito divertido e que acabou sofrendo pelo preconceito e pelas decisões questionáveis da Marvel. Foi muito melhor que Quantumania, que era pra ser um pilar do MCU daqui pra frente. Protejam Brie Larson e Iman Vellani a todos os custos
+- Tetris: Esse não saiu no cinema mas se destacou pra mim pela sacudida que foi um filme sobre um jogo de baixar blocos coloridos acabar virando um thriller de espionagem na guerra fria. Bom demais!
+
+A lista completa de filmes que vi em 2023: https://trakt.tv/users/nathann/history/movies/added/asc?start_at=2023-01-01T00:00:00-03:00&end_at=2023-12-31T23:59:59-03:00
 
 -------------
 
 ## Séries
-- https://trakt.tv/users/nathann/history/shows/added/asc?start_at=2023-01-01T00:00:00-03:00&end_at=2023-12-31T23:59:59-03:00
-- Ted Lasso
-- Barry
+A grande manchete do meu ano em séries foram as temporadas finais das minhas séries favoritas dos últimos anos: [Ted Lasso](https://trakt.tv/shows/ted-lasso) e [Barry](https://trakt.tv/shows/barry).
 
-- Good Omens
-- Vox Machina
+Ted Lasso foi um fenômeno mundial e trouxe a Premier League pra boca do povo mais do que nunca. Essa temporada manteve muito do coração do show e trouxe umas cenas que vou levar comigo por muito tempo. Apesar de todas as lições de bondade, positividade, relacionamentos saudáveis e tantas outras coisas que esse show trouxe pra gente, o que continuou me movendo mais foram as cenas de futebol. Roy voltando ao Stamford Bridge e o discurso da Rebeca sobre futebol no "episódio da Super Liga", por exemplo.
 
-- The Other Two
-- Schitt's Creek
+E Barry... Me deixou na ponta da cadeira até o final. A temporada foi em umas direções que me deixaram intrigado, mas a transformação de série de comédia entre série de suspense com elementos de humor foi feita com muito sucesso e ainda um pouco mais. Espero que agora, tendo dirigido todos episódios dessa temporada, vejamos ainda mais Bill Hader se aventurando em produções desse estilo. Já temos um ótimo precedente com Jordan Peele, e ele já mostrou interesse em fazer terror... quem sabe?
+
+Mais alguns destaques de séries no ano:
+- Segunda temporada de Good Omens;
+- Segunda temporada de The Legend of Vox Machina, que acabou não sendo tão impactante quanto a primeira, mas ainda assim gostei muito;
+- The Other Two também chegou ao final esse ano depois de 3 temporadas: eu não tinha assistido ainda - acabei começando no hype da temporada final, depois de ouvir muito que era um dos shows mais engraçados da atualidade. Os comentários estavam certos, me diverti muito vendo a série, apesar de que a última temporada andou muito perto de não funcionar.
+- Schitt's Creek acabou em 2020, mas também só vi esse ano. Foi outra série que peguei de recomendações na internet, e junto com The Other Two ficou entre as coisas mais engraçadas que eu vi no ano. A dinâmica de família na série é muito boa e o crescimento dos personagens é merecido.
+
+A lista completa de séries que vi em 2023: https://trakt.tv/users/nathann/history/shows/added/asc?start_at=2023-01-01T00:00:00-03:00&end_at=2023-12-31T23:59:59-03:00
 -------------
 
 ## Internet
-- Critical Role
-- Numot The Nummy
-- Dropout
+
+Não posso fechar uma retrospectiva de conteúdos visuais sem comentar da plataforma que no fim das contas acaba contando como a maior parte do meu tempo: YouTube. Alguns dos canais que eu assisti muito ao longo de 2023:
+- [Critical Role](https://www.youtube.com/@criticalrole): Continuo firme e forte assistindo a campanha 3, e termino o ano _quase_ atualizado. Levando em consideração que são vídeos quase semanais de 4h, devem ter sido mais de 150h de conteúdo consumido. Enquanto Critical Role continuar elevando o nível de tranmissão de jogos de RPG, eu estarei assistindo;
+- [Numot The Nummy](https://www.youtube.com/@NumotTheNummyYT): Um dos melhores streamers de draft que existe, e com uma personalidade muito boa. Geralmente streamers tendem a ser exagerados demais ou convencidos demais, e o Kenji consegue sempre se manter tranquilo, num tom sereno independente do que acontece no jogo, e sempre dando boas dicas de como draftar.
+- [LoadingReadyRun](https://www.youtube.com/@LRRMTG): Falando em exemplos de stream de Magic, a galera do LRR sempre me entretem com os conteúdos deles, que puxam mais pra um lado social e divertido do jogo. Mas eles não são um canal apenas de Magic, como evidenciado pelo Qwerpline que comentei na seção de podcasts. As esquetes deles também são muito boas.
+- [Dropout](https://www.youtube.com/@dropout): O serviço de Streaming que nasceu das cinzas do College Humor continua crescendo e esse ano eles tiveram vários momentos muito bons. Eu nunca consegui pegar o hábito de assistir Dimension 20, mas o Game Changer continua sendo um dos melhores "programas de TV" da atualidade mesmo não sendo um programa de TV. Entre isso e os vários outros programas que eles tem, vale muito a pena assinar.
+- [The Studio](https://www.youtube.com/@TheStudio): [MKBHD](https://www.youtube.com/@mkbhd) é o melhor canal de tecnologia e reviews da internet. E ele já era isso quando fazia a maior parte do trabalho sozinho. Agora ele tem um time todo ajudando ele a fazer os vídeos do canal principal e de vários outros canais, e o The Studio é um lugar onde todas essas pessoas podem aparecer na frente da câmera e experimentar com vários tipos de conteúdos que não necessariamente caberiam no canal principal do Marques. É um ótimo canal de bastidores e também de experimentos
 -------------
 
 ## Livros

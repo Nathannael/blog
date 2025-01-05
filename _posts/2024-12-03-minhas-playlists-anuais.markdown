@@ -11,7 +11,7 @@ header:
 
 ---
 
-Nosso relacionamento com o mundo tem se tornado cada vez mais efêmero. A quantidade de informação disponível, combinada com o crescimento de conteúdo rápido e fácil nas redes sociais fez com que nossa capacidade de atenção, ou pelo menos a minha em específico, tenha diminuído bastante. Mesmo que algo tenha impacto intelectual ou emocional, é muito raro que se mantenha na nossa mente por mais de uma semana. Mais do que nunca a existência de registros permanentes se faz importante para que as coisas não se percam no mar de possibilidades.
+Nosso relacionamento com o mundo tem se tornado cada vez mais efêmero. A quantidade de informação disponível, combinada com o crescimento de conteúdo rápido e fácil nas redes sociais fez com que nossa capacidade de atenção, ou pelo menos a minha especificamente, tenha diminuído bastante. Mesmo que algo tenha impacto intelectual ou emocional, é muito raro que se mantenha na nossa mente por mais de uma semana. A existência de registros permanentes se faz cada vez mais importante para que as coisas não se percam no mar de possibilidades.
 
 Isso se materializa muito pra mim na música: sou um consumidor ávido de novidades, e se eu não manter um registro do que me chamou a atenção, vou acabar ouvindo uma música boa só uma vez.
 
