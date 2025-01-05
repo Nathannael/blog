@@ -12,9 +12,25 @@ Um dos meus objetivos nesse site, além de guardar meus próprios textos, é com
 
 --------
 
+## 5 de Janeiro, 2025
+
+### An unreasonable amount of time
+
+Uma reflexão sobre como expertise em algo demora pra ser cultivada, e como pode parecer fácil depois que uma pessoa chega nesse nível.
+
+https://allenpike.com/2024/an-unreasonable-amount-of-time?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+
+## 8 de Dezembro, 2024
+
+### Staff Engineer vs Engineering Manager
+
+Bom artigo sobre as responsabilidade de um Staff Engineer e quando ele é mais útil numa organização (e até mesmo quando não é necessário ou redundante). Tem vários links interessantes pra outros assuntos
+
+https://blog.alexewerlof.com/p/staff-engineer-vs-engineering-manager
+
 ## 21 de Janeiro, 2024
 
-## HTMX é apenas outro framework Javascript?
+### HTMX é apenas outro framework Javascript?
 [link](https://htmx.org/essays/is-htmx-another-javascript-framework/)
 
 Post no site do HTMX explicando as vantagens de se usar HTMX no lugar de outros frameworks. A ideia do HTMX me atrai bastante e os argumentos desse post fazem muito sentido.
