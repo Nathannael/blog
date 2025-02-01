@@ -1,0 +1,127 @@
+---
+layout: single
+title:  "Retrospectiva 2024 - Conteúdos"
+excerpt: "Álbuns, séries, filmes e outras coisas que eu gostei durante o ano"
+date: 2025-01-05 18:30:21 -0300
+categories: retrospectiva
+header:
+  overlay_image: assets/images/headers/drmakete-lab-hsg538WrP0Y-unsplash.jpg
+  overlay_filter: 0.2
+  caption: "Photo by [**drmakete lab**](https://unsplash.com/@drmakete) on [**Unsplash**](https://unsplash.com/photos/hsg538WrP0Y)"
+
+
+---
+
+Todo ano eu gosto de fazer um apanhado das coisas que ouvi, li e assisti ao longo do ano. Aqui vou fazer um resumo, basicamente focado em dados mas adicionando as nuances que eu lembrar. Vamos lá:
+
+## Música
+
+Começando pelos meus hábitos musicais e como geralmente consumo música. Continuo usando Spotify e Apple Music. O Spotify é bem útil por causa do connect e das Jams, e o Apple Music tem muitos DJ sets. Também uso o Apple Music para:
+-  ouvir álbuns específicos por causa da qualidade de áudio (muito embora não possa dizer que consigo distinguir muito bem a diferença de qualidade);
+- Ouvir rádio, especialmente no fim do ano quando lançaram uma estação só de música eletrônica com muitos DJs que eu gosto.
+
+Continuo usando o Last.FM assiduamente, e o [MusicBoard](https://musicboard.app/){:target="_blank"} pra salvar meus álbuns estutados e reviews. Outro app muito útil é o [MusicHarbor](https://apps.apple.com/us/app/musicharbor-track-new-music/id1440405750){:target="_blank"}, que tem uma interface legal pra saber os próximos lançamentos de artistas e labels que eu sigo.
+
+Em relação a sites, continuo consumindo o [Album of The Year](https://www.albumoftheyear.org/){:target="_blank"} para ter um dedo no pulso da comunidade em relação a artistas que eu não sigo, e o blog novo [Hearing Things](https://www.hearingthings.co/){:target="_blank"} pra recomendações e matérias sobre música.
+
+### Álbuns
+
+Em 2024 continuei com a minha saga de ouvir mais álbuns, e tive um aumento em relação a 2023:
+
+#### 2023
+
+**94 álbuns ouvidos**{: .notice--success} **82 lançados em 2023**{: .notice--info}
+
+### 2024
+
+**148 álbuns ouvidos**{: .notice--success} **114 lançados em 2024**{: .notice--info}
+
+A lista completa de álbuns que eu ouvi, junto com notas e alguns comentários, está [aqui](https://musicboard.app/nathann/history){:target="_blank"}.
+
+#### Álbuns mais ouvidos e preferidos
+
+De acordo com o Last.FM, esses foram meus álbuns mais ouvidos em 2024:
+
+![albuns-mais-ouvidos](/blog/assets/images/retro-2024/top-albums.png){: .align-center}
+
+Mas esses 8 foram só os que eu ouvi mais, teve MUITO mais coisa que me impressionou nesse ano. Dessa vez, eu também mantive uma lista separada contendo todos os álbuns que eu ouvi lançados em 2024, rankeados pelos que eu gostei mais, e no fim, o ranking ficou desse jeito:
+
+![ranking-albuns](/blog/assets/images/retro-2024/ranking-albums.png){: .align-center}
+
+A lista completa está [aqui](https://musicboard.app/nathann/list/albuns-preferidos-de-2024/){:target="_blank"}.
+
+
+### Singles
+
+Segundo o [Organize Your Music](http://organizeyourmusic.playlistmachinery.com/#){:target="_blank"}, salvei 1448 sigles no Spotify, comparado com 1013 em 2023. E segundo o Last.FM, meu top10 mais ouvido foi esse aqui:
+
+![singles](/blog/assets/images/retro-2024/top-songs.png){: .align-center}
+
+Para a minha alegria e mantendo minha marca de gostar muito de estar atualizado, todas as musicas do top10 foram lançadas em 2024. Expandindo pro top20, só 2 foram lançadas antes: Overmono - Blow Out (Set/2023) e Like This do Sofi Tukker (Set/2019).
+
+Esse ano também fiz minha playlist anual. Expliquei um pouco mais sobre essas playlists [aqui]({{ site.baseurl }}{% link _posts/2024-12-03-minhas-playlists-anuais.markdown %}){:target="_blank"}) e lá também tem a playlist de 2024.
+
+### Artistas
+
+![artists](/blog/assets/images/retro-2024/top-artists.png){: .align-center}
+
+Geralmente minha lista de artistas mais ouvidos num ano depende muito de quais artistas lançaram álbum no ano, e dessa vez não foi diferente. Nero é uma das minhas bandas preferidas e ter eles de volta depois de quase 10 anos e muitas promessas vazias era sinceramente algo que eu não esperava mais. O Into The Unknown foi meu album mais ouvido e preferido de 2024 por bons motivos.
+
+Uma descrição parecida pode ser dita do Linkin Park. Já tinha me conformado que a banda tinha dissolvido depois da tragédia que aconteceu em 2017, e o ressurgimento surpresa da banda com novos integrantes e energia renovada foi uma surpresa muito bem-vinda.
+
+De resto, 3 artistas do top10 não lançaram discos originais em 2024: ODESZA - que são meus artistas favoritos nessa fase da minha vida. Disclosure e Barry Can't Swim - que eu também gosto muito atualmente e lançaram singles que embalaram muitas semanas de 2024.
+
+## Podcasts
+
+Sem muitas mudanças pra mim em 2024. [Pocket Casts](https://pocketcasts.com/){:target="_blank"} continua sendo meu app principal, e a lista continua parecida com a do meu [texto]({{ site.baseurl }}{% link _posts/2022-07-11-podcasts.markdown %}){:target="_blank"} de alguns anos atrás, apesar de que preciso atualizar ele muito em breve, especificamente pra melhorar as descrições. Meu top 5:
+
+{% include figure image_path="/assets/images/retro-2024/podcasts.jpeg" alt="lista de podcasts mais ouvidos" %}
+
+A lista é exatamente a mesma de 2024, mudando só a ordem. Esses 5 tem uma fila separada no Pocket Casts, porque eu sempre ouço todos os episódios que saem deles. Sigo muitos outros shows mas eles são "bonus", e eu só recorro a fila completa quando a desses 5 já acabou. Todos eles tem comentários no post que eu citei ali em cima, mas pra dar um resumo e explicar porque eles continuam sendo meus preferidos:
+
+1. **The Vergecast:** Podcast sobre tecnologia. Semanalmente eles lançam um episódio de noticias e outro de matérias diversificadas, além de alguns episódios especiais. É de onde eu tiro a grande parte do meu conhecimento sobre acontecimentos nesse ramo.
+2. **NADDPOD:** Podcast de D&D e outras variedades nerds. Sigo eles desde o começo e mesmo que hoje em dia eles tenham cada vez mais episódios que não tem nada a ver com D&D, eles são tão divertidos que vale a pena seguir tudo. E os episódios deles jogando também são incríveis.
+3. **Limited Resources:** Podcast de Magic, falando sobre draft. Eu jogo sempre que dá, e escuto LR também sempre que dá pra entender mais sobre o meta e saber quais cartas e quais estratégias são melhores atualmente.
+4. **P1:** Podcast sobre Formula 1. É um podcast feito por fãs para fãs, então não é o mais técnico possível, mas eu gosto muito dos hosts e eles trazem tudo de maneira leve e descomplicada. Me mantem atualizado dos acontecimentos também, sem precisar que eu fique de olho em outras fontes.
+5. **Correspondentes Premier:** Podcast sobre Premier League e vida na Inglaterra. Jornalistas esportivos muito bons e que me deixam atualizado sobre a liga, já que eu não assisto todos os jogos.
+
+
+## Filmes
+
+Em 2024 assisti 26 filmes diferentes, exatamente o mesmo número de 2023 (consistência!). Desses 10 foram no cinema, o que dá quase 1 por mês. Parando pra pensar não tiveram tantos filmes que eu precisava ver na tela grande, então o número até faz sentido.
+
+Meu filme favorito lançado em 2024 é fácil de descobrir: Dune 2. Outros destaques foram Fall Guy (muito divertido) e Substance (muito perturbador). Dos filmes que eu vi de casa, meus destaques são pra Godzilla Minus One (fiquei triste de não ter consegido ver esse no cinema), e Juror #2.
+
+A lista completa de filmes que vi em 2024: [Link](https://trakt.tv/users/nathann/history/movies/added/asc?start_at=2024-01-01T00:00:00-03:00&end_at=2024-12-31T23:59:59-03:00){:target="_blank"}.
+
+
+## Séries
+
+2024 não foi um ano tão estrondoso quanto 2023, que encerrou algumas das minhas séries favoritas. Mas trouxe temporadas novas de séries que eu gosto muito, como The Bear, Invincible e Doctor Who. Essas novas temporadas acabaram deixando um pouco a desejar, mas ainda assim valeram a pena a espera.
+
+Das séries que eu descobri esse ano, uma se destaca: **Taskmaster**. Demorei muito a começar a assistir, mas tenho devorado todas as temporadas desde agosto, e é a série perfeita pra assistir enquanto faço outras coisas. Leve, engraçada e com um humor britânico afiado. O dia que eu terminar que assistir tudo vai deixar um vazio enorme, com certeza. Também comecei **Silo** e **For All Mankind** depois de muito enrolar, e ambas são ficções científicas que estou gostando de acompanhar.
+
+2024 também viu o lançamento de* **Dark Matter**, série baseada no livro do Blake Crouch que li em anos anteriores. A série talvez tenha sido meu ponto alto de 2024, por ter adaptado o livro muito bem e ainda expandido o material de formas bem necessárias.
+
+A lista completa de séries que vi em 2024: [Link](https://trakt.tv/users/nathann/history/shows/added/asc?start_at=2024-01-01T00:00:00-03:00&end_at=2024-12-31T23:59:59-03:00){:target="_blank"}.
+
+
+## Internet
+
+É aqui que eu coloco coisas que eu assisti/li/consumi mas não exatamente cabem nas mídias tradicionais. **Taskmaster** talvez coubesse aqui, pois assisto no YouTube, mas a estrutura é bem mais parecida com série do que outras coisas que vou comentar abaixo:
+
+- [Dropout](https://www.youtube.com/@dropout): continua sendo o streaming com melhor custo-benefício - muitos shows de qualidade, especialmente Game Changer e mais recentemente Very Important People. Game Changer desafia o conceito de game show semanalmente e honestamente fiquei triste de que eles não foram nominados ao Emmy.
+- [Critical Role](https://www.youtube.com/@criticalrole): Ainda foi parte importante do meu ano, mesmo que eu tenha praticamente abandonado a campanha 3.
+- [Numot The Nummy](https://www.youtube.com/@NumotTheNummyYT) e [Paul Cheon](https://www.youtube.com/@haumph): Meus Youtubers confiáveis pra conteúdo de draft de Magic. Ambos são calmos e jogam muito bem, explicando as jogadas. Ótimo pra gente como eu que não sabe jogar.
+- [LoadingReadyRun](https://www.youtube.com/@LRRMTG): Eles tem melhor conteúdo de Magic da Internet (North 100 showdown), e carisma de sobra nas outras coisas que eles fazem, relacionadas a Magic ou não.
+
+
+## Jogos
+
+Dessa vez vou incluir uma sessão de jogos só pra poder falar de [Balatro](https://www.playbalatro.com/){:target="_blank"}. Comprei esse jogo em todos os lugares possíveis mas jogo mais no iPad, então não tem como eu saber quantas horas enterrei nesse jogo. É um negócio fantástico e viciante. Me fez largar o Hearthstone Battlegrounds que era meu jogo padrão quando eu tinha 20 minutos e queria jogar uma partida aleatória de alguma coisa que exercitasse meu cérebro.
+
+Fora Balatro, continuo jogando Magic regularmente, especialmente draft como comentei anteriormente. Esse ano teve umas coisas bem legais no Magic, especialmente Duskmourn que acabou sendo um dos meus sets preferidos da história pra draftar. Também joguei um poudo de Stacklands que é um roguelike bem interessante. Inicialmente simples mas me deixa num estado quase de meditação tentando gerenciar minha vila composta por cartinhas.
+
+## Livros
+
+Cantinho da vergonha continua firme e forte. Esse ano não li nenhum livro, 3 a menos do que em 2023 (🥲). Mas por outro lado, ouvir audiobooks também é ler, e ouvi alguns audiobooks esse ano! Destaque pra All Systems Red (The Murderbot Diaries), um livro que eu queria ler a muito tempo e acabei achando no Audible. O livro é tão bom quanto me disseram que seria, apesar de bem pequeno. Indo pra 2025 vou continuar ouvindo os livros seguintes.
