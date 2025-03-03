@@ -12,6 +12,14 @@ Um dos meus objetivos nesse site, além de guardar meus próprios textos, é com
 
 --------
 
+## 3 de março, 2025
+
+### Configurações para o git
+
+Git é uma das ferramentas mais utilizadas pré desenvolvedores e ainda assim parece ser um mistério para qualquer coisa além do básico. Esse artigo algumas configurações importantes que muitos de nós talvez nem saibamos que seja possível. 
+
+https://blog.gitbutler.com/how-git-core-devs-configure-git/
+
 ## 5 de Janeiro, 2025
 
 ### An unreasonable amount of time
